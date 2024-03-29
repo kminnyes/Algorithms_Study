@@ -1,4 +1,4 @@
-//πÈ¡ÿ 2217
+//¬π√©√Å√ò 2217
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -17,13 +17,13 @@ int main() {
 	for (int i=0; i< n; i++) {
 		scanf_s("%d", &w);
 		arr[i] = w;
-	}//µø¿˚πËø≠
+	}//¬µ¬ø√Ä√ª¬π√®¬ø¬≠
 
 	qsort((void*)arr, n, sizeof(int), compare);
 
 	for (int i = 0; i < n; i++) {
 		printf("%d ", arr[i]);
-	}// ¡§∑ƒ
+	}// √Å¬§¬∑√Ñ
 
 
 	int max =0;
