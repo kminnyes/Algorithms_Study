@@ -1,4 +1,4 @@
-//3rd week Two pointer น้มุ 2470
+//3rd week Two pointer ยนรฉรร 2470
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
